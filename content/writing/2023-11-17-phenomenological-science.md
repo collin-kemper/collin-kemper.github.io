@@ -2,7 +2,7 @@
 title = "Phenomenological Science"
 date = 2023-11-17T16:44:01-05:00
 slug = "phenomenological-science"
-draft = true
+draft = false
 +++
 
 Suppose that we take some conception of utilitarianism seriously. This would seem to require believing that utility is real. If we also believe that the universe is amenable to scientific understanding, then it would seem that utility must measurable in much the same way that temperature or any other physical quantity is.
