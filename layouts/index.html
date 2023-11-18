@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<header>
+    <h1>— {{ $.Site.Title }} —</h1>
+    {{- if $.Site.Params.theme_config.show_description -}}
+        <p>{{ $.Site.Params.description }}</p>
+    {{- end -}}
+</header>
+{{ partial "menu.html" .}}
+{{ range $.Site.Sections }}
+    <h2>{{ .Title }}</h2>
+    <div class="post-list">
+    {{ range .Pages }}
+    <div><a href="{{.RelPermalink}}">{{.Title}}</a></div><time>{{.Date | time.Format site.Params.theme_config.date_format}}</time>
+    {{ end }}
+    </div>
+{{ end }}
+
+{{ end }}
