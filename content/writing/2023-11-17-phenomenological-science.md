@@ -5,7 +5,7 @@ slug = "phenomenological-science"
 draft = false
 +++
 
-Suppose that we take some conception of utilitarianism seriously. This would seem to require believing that utility is real. If we also believe that the universe is amenable to scientific understanding, then it would seem that utility must measurable in much the same way that temperature or any other physical quantity is.
+Suppose that we take some conception of utilitarianism seriously. This would seem to require believing that utility is real. If we also believe that the universe is amenable to scientific understanding, then it would seem that utility must be measurable in much the same way that temperature or any other physical quantity is.
 
 Suppose instead that we do not take utilitarianism seriously, and is instead take it as a set of heuristics and pedagogically useful models that point to some deeper, more important thing. If we also believe that the universe is amenable to scientific understanding, then it would seem that this deeper, more important thing must be measurable in much the same way that temperature or any other physical quantity is, and that our failure to articulate this deeper, more important thing is an error.
 
@@ -46,3 +46,11 @@ The general sketch for why I highlight these particular phenomena is as follows:
 - The last three are search terms that bring up results relevant to the mechanistic function of phenomena of interest.
 
 The goal of the above is to enumerate concrete empirical phenomena amenable to study via known techniques that come as close as possible to the nebulous, messy, conceptual thing of interest. Such is a technique useful in a broad variety of situations.
+
+<!--
+## Addendum: Implications
+
+- What are present things?
+- Interpretability. 
+
+-->

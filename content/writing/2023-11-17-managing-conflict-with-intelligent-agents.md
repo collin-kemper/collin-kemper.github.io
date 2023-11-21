@@ -8,7 +8,7 @@ slug = "managing-conflict-with-intelligent-agents"
 
 *It seems that managing conflict with AGI in the long-term requires improving the capabilities of humans themselves, though many other strategies may be employed in the near and medium term to enable this, and game theory will remain an important tool for managing conflict.*
 
-*In the following, I will attempt to outline the reasons that I believe this. However, this is not the only way to think about AI and there are many implicit assumptions in what follows. Others may reasonably disagree with this analysis -- though I believe that it is also reasonable.*
+*In the following, I will attempt to outline the reasons that I believe this. However, this is not the only way to think about AI and there are many implicit assumptions in what follows. Others may reasonably disagree with this analysis -- though I also believe that this analysis is reasonable.*
 
 ---
 
@@ -73,7 +73,9 @@ I believe that this strategy is necessary for managing conflict with AGI in the 
 
 Further, if you can improve your own capabilities as an agent, it is almost always in your interest to do so, regardless of your belief in the possibility of AGI. 
 
-The main problem with this as a long-term strategy is potential asymmetries in offensive and defensive capabilities. It might be the case that bioweapons, relativistic kill vehicles, or other technologies are much easier to employ than to defend against. In such a case, if any agent is capable of employing these means, and it is in their interest to do so, then there will be a strong incentive for them to use them. However, if one can ensure that there are many agents at relatively similar levels of capability, these sort of problem may be amenable to solution through game theoretic means. 
+The main problem with this as a long-term strategy is potential asymmetries in offensive and defensive capabilities. It might be the case that bioweapons, relativistic kill vehicles, or other technologies are much easier to employ than to defend against. In such a case, if any agent is capable of employing these means, and it is in their interest to do so, then there will be a strong incentive for them to use them. However, if one can ensure that there are many agents at relatively similar levels of capability, these sort of problem may be amenable to solution through game theoretic means (in much the same way the nuclear weapons have proven relatively amenable to collective management). Further, it may be the case that these asymmetries only exist in certain bands of capability and that, once capability is increased enough, the asymmetries are not as destabilizing.
+
+<!-- NOTE: add more concrete bullet points to each of these sections. -->
 
 One well-known proposal for AI alignment that fits relatively well under this strategy is Paul Christiano's iterated distillation and amplification. Naturally, I find it quite compelling.
 

@@ -6,4 +6,4 @@ draft = false
 
 Hello, I'm Collin.
 
-My digital ground has lain fallow for some time, though it may yet become a garden.
+I'm trying to think clearly and seriously; and learning to have fun and grow.
