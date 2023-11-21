@@ -9,11 +9,11 @@ draft = false
 >
 >-- Archilochus
 
-I use technical language here, but really this is about explaining certain intuitions that I have. While I think that you *could* formalize them in the case of a particular world-model, the map is not the territory, and hence beliefs about the territory must ground out in unformalizable intuitions at some point.
+I use technical language here, but really this is about explaining certain intuitions that I have. While I think that you *could* formalize these intuitions in the case of a particular world-model, the map is not the territory, and hence beliefs about the territory must ground out in unformalizable intuitions at some point.
 
 Suppose that the world is some very highly dimensional vector space. \[This isn't too far from what quantum physics supposes.\] Suppose that there are various agents, and that these agents have different capabilities. We might think of the capabilities of an agent as a particular set of vectors that are its action vectors. Each time step, the agent is capable of taking an action that updates the world-vector by adding one of their action vectors to the overall world vector. Suppose also that if agents successfully shift the world into certain states, that they are capable of destroying other agents (by knocking them out of homeostasis). 
 
-\[Note that this model has a number of flaws. In the real world, agents can change their capabilities over time, there are nonlinearities in updates, and agents are generally a part of the world. However, I believe this model still clarifies some real world dynamics.\]
+\[Note that, without formally specifying how this works in the model, agents can change their capabilities over time, there are nonlinearities in updates, and agents are generally a part of the world.\]
 
 There are two ways to think about the magnitude of an agent's capabilities in this model:
 
